@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# jupyter notebook settings?
+*.bundle.*
+lib/
+node_modules/
+*.egg-info/
+.ipynb_checkpoints
+*.tsbuildinfo
